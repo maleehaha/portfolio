@@ -1,0 +1,44 @@
+#contact{
+    padding: 30px ;
+    background-color: #1F2833;
+    
+  }
+
+
+  .msg{
+    padding: 30px;
+  }
+   form{
+       display: flex;
+       flex-direction: column;
+   }
+ 
+  input {
+    background-color: #eee;
+    padding: 5px 30px;
+    outline: none;
+  }
+  
+  form div{
+      margin-bottom: 20px;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  textarea{
+      resize: none;
+      height: 100px;
+      width: 250px;
+      align-items: center;
+  }
+
+input,
+textarea{
+ 
+    padding: 2px 5px;
+  }
+
+ /* div{
+   height: 500px;
+   width: auto;
+ } */
